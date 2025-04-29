@@ -1,0 +1,2 @@
+1) The numbers were being treated as strings so they were getting concatanated together when the + operator was used instead of added together mathematically. 
+2) I added the Number function for num1 and num2 so that they are converted into numbers before the + operator is used. 
